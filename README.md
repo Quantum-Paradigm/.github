@@ -1,1 +1,1 @@
-# .github
+# Quantum Paradigm (PVT) Ltd.
